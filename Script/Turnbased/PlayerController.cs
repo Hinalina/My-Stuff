@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private TMP_Text displayText;
     [SerializeField] private float typingSpeed = 0.01f;
 
-    [Header("Jutus")]
+    [Header("Jutsus")]
     [SerializeField] public List<JutsuHandler> jutsuList;
     public bool usedJutsu;
 
