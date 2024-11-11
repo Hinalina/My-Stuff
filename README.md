@@ -1,1 +1,1 @@
-# Stuff i've done, including art, code, VFX & projects
+# Stuff I've done, including art, code, VFX & projects
